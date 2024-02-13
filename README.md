@@ -6,8 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 👀 I’m interested in full-stack development and software engineering
-- 📚 I’m currently learning different frameworks that will help me make an impactful application people will use
-<!--- 🏣 I’m looking for a fall internship opportunity to expand my skillset and experience-->
+- 📚 I’m currently learning different frameworks that will help me make an impactful application people will use <!--- 🏣 I’m looking for a fall internship opportunity to expand my skillset and experience-->
 - 📧 Feel free to reach me at: avhhoang@ucdavis.edu
 - ⚡ Fun fact: I live in the living room to save money
 - 😄 Pronouns: He/Him
